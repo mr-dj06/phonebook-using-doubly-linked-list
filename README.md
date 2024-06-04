@@ -2,7 +2,6 @@
 2nd Semester Computer Engineering Project
 
 # Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH DOUBLY LINKED LIST SO THAT TRAVERSING CAN BE EASY.....
-# In eclipse
 
 # Phonebook management have three main operations:<br />
 #1.Searching<br />
